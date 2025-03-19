@@ -12,5 +12,3 @@ Key Features:
 Example Usage:
 
     python proxy_checker.py -i proxies.txt -o working_proxies.txt
-
-    python proxy_checker.py -i proxies.txt -o working_proxies.txt -th 50
